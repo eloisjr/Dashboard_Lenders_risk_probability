@@ -31,5 +31,6 @@ Google studio host the application, where at the top middle, the user can select
 
 
 Lender’s risk model can be found in the link below.
+
 https://lookerstudio.google.com/u/0/reporting/d7085977-5870-49ff-82e5-0ab447bc8839/page/Gke4C
 
